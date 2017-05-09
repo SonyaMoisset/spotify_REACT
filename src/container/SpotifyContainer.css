@@ -1,0 +1,15 @@
+body {
+    background: #000;
+    color: #fff;
+}
+
+.wrapper {
+    text-align: center;
+    padding: 5%;
+}
+
+.main-title {
+    text-transform: uppercase;
+    font-size: 	2.25rem;
+    padding-bottom: 0.9375rem;
+}
