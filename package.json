@@ -4,9 +4,9 @@
   "private": true,
   "homepage": "http://sonyamoisset.github.io/spotify",
   "dependencies": {
-    "react": "16.9.0",
+    "react": "16.14.0",
     "react-bootstrap": "0.32.4",
-    "react-dom": "16.9.0"
+    "react-dom": "16.14.0"
   },
   "devDependencies": {
     "gh-pages": "2.1.1",
