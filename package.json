@@ -5,7 +5,7 @@
   "homepage": "http://sonyamoisset.github.io/spotify",
   "dependencies": {
     "react": "16.9.0",
-    "react-bootstrap": "0.33.1",
+    "react-bootstrap": "2.10.9",
     "react-dom": "16.9.0"
   },
   "devDependencies": {
